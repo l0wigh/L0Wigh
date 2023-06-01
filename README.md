@@ -7,7 +7,7 @@ Coding Languages : C, Python, Javascript, a bit of Lua, and other stuff that I r
 
 Reverse engineering stuff when I'm in the mood, but I clearly suck at this.
 
-Using Garuda Linux with Sway. Might put my dotfiles here one day. (In other words, I'm currently too lazy to do it)
+Using Garuda Linux with Sway and Archlinux with NEWM. Might put my dotfiles here one day. (In other words, I'm currently too lazy to do it)
 
 I will probably fail 42 school, but that's not a surprise.
 
