@@ -3,7 +3,7 @@
 
 PSVita lover, I sometimes code some random stuff for it. (Switch sucks, Vita is way better, no need to argue)
 
-Coding Languages : C, Python, Javascript, a bit of Lua, and other stuff that I rarely use. (C is obviously the best language)
+Coding Languages : C, C++, ZealC, Python, Javascript, a bit of Lua, and other stuff that I rarely use. (C is obviously the best language)
 
 Reverse engineering stuff when I'm in the mood, but I clearly suck at this.
 
