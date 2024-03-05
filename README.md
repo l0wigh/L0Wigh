@@ -9,6 +9,7 @@ Reverse engineering stuff when I'm in the mood, but I clearly suck at this.
 
 Using Garuda Linux with Sway and Archlinux with NEWM. Might put my dotfiles here one day. (In other words, I'm currently too lazy to do it)
 
-I will probably fail 42 school, but that's not a surprise.
+~~I will probably fail 42 school, but that's not a surprise.~~
+That's a surprise
 
-[![thomathi's 42 stats](https://badge42.vercel.app/api/v2/cl2ukym5l006409mf4egftlyr/stats?cursusId=21)](https://github.com/JaeSeoKim/badge42)
+[![thomathi's 42 stats](https://badge42.coday.fr/api/v2/cltek6jel009301p4ozygnxhu/stats?cursusId=21&coalitionId=334)](https://github.com/Coday-meric/badge42)
