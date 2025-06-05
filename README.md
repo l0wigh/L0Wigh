@@ -8,10 +8,12 @@ PSVita lover, I sometimes code [some](https://github.com/L0Wigh/Heboris-Vita) [r
 
 Doing Reverse Engineering when I'm in the mood.
 
-**Lenovo ThinkPad P14s Gen 4**   : Gentoo running [Fluorite](https://github.com/L0Wigh/Fluorite)
+Computers I have and use :
 
-**Macbook Pro 2015**             : Archlinux running [Fluorite](https://github.com/L0Wigh/Fluorite)
+- **Lenovo ThinkPad P14s Gen 4**   : Gentoo running [Fluorite](https://github.com/L0Wigh/Fluorite)
 
-**Macbook Air 2012**             : Archlinux running [Trinity Desktop Environment](https://www.trinitydesktop.org/)
+- **Macbook Pro 2015**             : Archlinux running [Fluorite](https://github.com/L0Wigh/Fluorite)
 
-**ASUS Vivobook S15**            : Archlinux running [Fluorite](https://github.com/L0Wigh/Fluorite) and [newm-next](https://github.com/newm-next/newm-next)
+- **Macbook Air 2012**             : Archlinux running [Trinity Desktop Environment](https://www.trinitydesktop.org/)
+
+- **ASUS Vivobook S15**            : Archlinux running [Fluorite](https://github.com/L0Wigh/Fluorite) and [newm-next](https://github.com/newm-next/newm-next)
