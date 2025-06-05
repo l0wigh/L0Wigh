@@ -2,7 +2,7 @@
 
 Coding Languages : C, C++, Python, Javascript, and other stuff that I rarely use.
 
-(Neo)Vim lover.
+(Neo)Vim lover. Go get my current configuration [here](https://github.com/L0Wigh/LynxVim)
 
 PSVita lover, I sometimes code some random stuff for it.
 
