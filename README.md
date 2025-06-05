@@ -4,7 +4,7 @@ Coding Languages : C, C++, Python, Javascript, and other stuff that I rarely use
 
 (Neo)Vim lover. Go get my current configuration [here](https://github.com/L0Wigh/LynxVim)
 
-PSVita lover, I sometimes code some random stuff for it.
+PSVita lover, I sometimes code [some](https://github.com/L0Wigh/Heboris-Vita) [random](https://github.com/L0Wigh/Cambridge-Vita) [stuff](https://github.com/l0wigh/CatacombVita) for it.
 
 Doing Reverse Engineering when I'm in the mood.
 
@@ -14,6 +14,4 @@ Doing Reverse Engineering when I'm in the mood.
 
 **Macbook Air 2012**             : Archlinux running [Trinity Desktop Environment](https://www.trinitydesktop.org/)
 
-**ASUS Vivobook S15**            : Archlinux running [Fluorite](https://github.com/L0Wigh/Fluorite)
-
-<!-- [![thomathi's 42 stats](https://badge42.coday.fr/api/v2/cltek6jel009301p4ozygnxhu/stats?cursusId=21&coalitionId=334)](https://github.com/Coday-meric/badge42) -->
+**ASUS Vivobook S15**            : Archlinux running [Fluorite](https://github.com/L0Wigh/Fluorite) and [newm-next](https://github.com/newm-next/newm-next)
