@@ -6,7 +6,7 @@ Coding Languages : C, C++, Python, Javascript, and other stuff that I rarely use
 
 PSVita lover, I sometimes code some random stuff for it.
 
-Reverse engineering stuff when I'm in the mood.
+Doing Reverse Engineering when I'm in the mood.
 
 **Lenovo ThinkPad P14s Gen 4**   : Gentoo running [Fluorite](https://github.com/L0Wigh/Fluorite)
 
