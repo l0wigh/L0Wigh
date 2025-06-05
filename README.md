@@ -12,7 +12,7 @@ Reverse engineering stuff when I'm in the mood.
 
 **Macbook Pro 2015**             : Archlinux running [Fluorite](https://github.com/L0Wigh/Fluorite)
 
-**Macbook Air 2012**             : KISS Linux (Community) running [Fluorite](https://github.com/L0Wigh/Fluorite)
+**Macbook Air 2012**             : Archlinux running [Trinity Desktop Environment](https://www.trinitydesktop.org/)
 
 **ASUS Vivobook S15**            : Archlinux running [Fluorite](https://github.com/L0Wigh/Fluorite)
 
