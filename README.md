@@ -1,6 +1,6 @@
 ### About me
 
-Coding Languages : C, C++, Python, Javascript, and other stuff that I rarely use.
+Coding Languages : C, OCaml, Python, Javascript, and other stuff that I rarely use.
 
 (Neo)Vim lover. Go get my current configuration [here](https://github.com/L0Wigh/LynxVim)
 
