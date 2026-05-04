@@ -2,7 +2,7 @@
 
 Coding Languages : C, OCaml, Python, Javascript, and other stuff that I rarely use.
 
-(Neo)Vim lover. Go get my current configuration [here](https://github.com/L0Wigh/LynxVim)
+(Neo)Vim and Zed lover. Go get my current configuration [here](https://github.com/L0Wigh/LynxVim) and [here](https://github.com/L0Wigh/zed_config)
 
 PSVita lover, I sometimes code [some](https://github.com/L0Wigh/Heboris-Vita) [random](https://github.com/L0Wigh/Cambridge-Vita) [stuff](https://github.com/l0wigh/CatacombVita) for it.
 
